@@ -21,8 +21,8 @@ global.ownername = '🐛Tech god' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.packname = 'Wrd'
+global.author = 'Wrd\n\nContact: +2250505635640'
 
 //console view/theme
 global.themeemoji = '🪀'
